@@ -1,3 +1,7 @@
+---
+tags:
+  - Química
+---
 
 
 + Vaso deprecipitado

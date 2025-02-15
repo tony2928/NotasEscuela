@@ -27,31 +27,14 @@ Del rayo, con los imanes salen 3 rayos (similar a el prisma con la luz):
 - Rayos Beta (-) Intermedio $$\gamma$$
 **Joseph John 1897**
 
-Descubrimiento del Electron de manera practica (ya anteriormente se tomaba en cuenta en idea); simbolo del electron
+Descubrimiento del Electron de manera practica (ya anteriormente se tomaba en cuenta en idea).
+Simbolo del electron:
 $$e^-$$
 
-```handdrawn-ink
-{
-	"versionAtEmbed": "0.3.3",
-	"filepath": "Ink/Drawing/2025.1.30 - 16.31pm.drawing",
-	"width": 482,
-	"aspectRatio": 1.1183294663573087
-}
-```
-
-
+![[Cathode-Ray-tube-Experiment-660.png]]
 #### Modelo atomico del budin con pasas
 
-```handdrawn-ink
-{
-	"versionAtEmbed": "0.3.3",
-	"filepath": "Ink/Drawing/2025.1.30 - 16.39pm.drawing",
-	"width": 350,
-	"aspectRatio": 1.4
-}
-```
-
-
+![[Drawing 2025-02-15 14.19.53.excalidraw.png]]
 
 **Ernest Rutherford 1911**
 
@@ -70,7 +53,6 @@ Nucleo positivo y cargas negativas
 ***Cuerpo negro:***
 
 Objeto teórico Ideal
-
 
 ### Teoría de Planck
 
