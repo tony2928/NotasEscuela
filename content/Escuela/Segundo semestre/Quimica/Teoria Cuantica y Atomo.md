@@ -108,3 +108,12 @@ Cada elemento tiene un espectro característico
 Cuando la luaz pasa por un prima, cada longitud pasa a diferente velocidad, lo que hace que al salir queden separados
 
 ### Teoría Atómica de Bohr
+
+**Niels Henrik David Bohr** fue un físico danés que contribuyó en la comprensión del átomo y la mecánica cuántica
+
+Público su propio modelo atómico en 1913, introduciendo la teoría de las órbitas cuantíficadas
+
+El modelo atómico de Bohr funcionaba muy bien para el átomo de hidrógeno
+
+![[Modelo_de_Bohr.png]]
+
