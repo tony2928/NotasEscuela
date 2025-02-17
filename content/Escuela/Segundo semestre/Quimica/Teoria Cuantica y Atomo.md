@@ -70,6 +70,10 @@ Siendo que:
  - $c$ = velocidad de la luz
  - $\lambda$ = longitud de onda
 
+Constante de planck reducida:
+$$
+\hbar = \frac{h}{2\pi}
+$$
 
 > [!dato]
 > La energía no se transmite de manera continua, sino en paquetes
@@ -117,3 +121,51 @@ El modelo atómico de Bohr funcionaba muy bien para el átomo de hidrógeno
 
 ![[Modelo_de_Bohr.png]]
 
+#### Teoría atómica de Bohr - Sommerfeld
+
+EL físico alemán **Arnold Sommerfeld**, crea en 1916, si modelo atómico para dar algunas mejoras al modelo atómico de Bohr, ayudándonse de la relatividad de **Albert Einstein**
+
+Introdujo dos modificaciones básicas: órbitas casi elípticas para los electrones y velocidades
+
+![[modelo_atomico_sommerfeld.png]]
+
+> [!Dato]
+> Bohr creó los niveles energéticos
+
+Los aspectos esencialmente novedosos que se derivan de la Teoría Cuántica son:
+
+a) Carácter corpuscular de la radiación (Hipótesis de Planck)
+
+b) Aspecto ondulatorio de las partículas (Hipótesis de Broglie)
+
+c) Existencia de magnitudes físicas cuyo espectro de valores es discontinuo. Por ejemplo los niveles de energía del átomo de hidrógeno (Modelo atómico de Bohr)
+
+![[Doble-rendija.jpg]]
+*Experimento de la doble rendija*
+
+### Postulado de De Broglie
+
+El físico fránces Louis De Broglie en 1924, consideró que la luz no solo es un efecto corpuscular sino también ondulatorio
+
+La Teoría de la dualidad de la materia considera que la materia tiene un comportamiento corpúsculo - onda o partícula - onda
+
+![[broglie.jpg]]
+### Principio de Incertidumbre de Heisenberg
+
+**Werner Heisenberg** estableció el Principio de Incertidumbre de 1927
+
+Es imposible medir la posición y el momento lienal de un corpúsculo subatómico en el mismo instante con una precisión ilimitada. Cuanto más precisa es la medición del momento lineal, menos precisa es la medición de la posición en ese instante, y viceversa
+
+$$
+\Delta x \times \Delta p_x \geq h / 4\pi
+$$
+
+### Ecuación de onda de Scrhödinger
+
+El físico austríaco, **Erwin Schrödinger**, desarrolló en 1925 la conocida ecuación que lleva su nombre
+
+Se trata de una ecuación de onda en términos de la función de onda, que predice analíticamente y con presición, la probabilidad de eventos o resultados
+
+$$
+H(t) \ket{\psi(t)} = i\hbar \frac{d}{dt} \ket{\psi(t)}
+$$
